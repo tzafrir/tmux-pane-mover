@@ -2,7 +2,7 @@
 
 Drag-and-drop TUI for rearranging tmux panes.
 
-<!-- TODO: Add screenshot/GIF here -->
+![screenshot](https://raw.githubusercontent.com/tzafrir/tmux-pane-mover/main/images/screenshot.png)
 
 ## Features
 
