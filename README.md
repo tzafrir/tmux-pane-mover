@@ -1,5 +1,10 @@
 # tmux-pane-mover
 
+[![PyPI](https://img.shields.io/pypi/v/tmux-pane-mover)](https://pypi.org/project/tmux-pane-mover/)
+[![Python](https://img.shields.io/pypi/pyversions/tmux-pane-mover)](https://pypi.org/project/tmux-pane-mover/)
+[![License](https://img.shields.io/pypi/l/tmux-pane-mover)](https://github.com/tzafrir/tmux-pane-mover/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/tmux-pane-mover)](https://pypi.org/project/tmux-pane-mover/)
+
 Drag-and-drop TUI for rearranging tmux panes.
 
 ![screenshot](https://raw.githubusercontent.com/tzafrir/tmux-pane-mover/main/images/screenshot.png)
